@@ -15,3 +15,6 @@
 1. The PlayerLimit value in shard.cfg of welcome_service and frontend_service has 5000, but the value is 2000 in the code of frontend_service.  Also, the frontend_service doesnt get the value from shard.conf file.
 2. Server configuratin did not change, That is, it is the same as before.
 3. Please upload a patch file of new version as soon as possible.
+
+#3-9
+我们上传了log. 还我要新老版本。
