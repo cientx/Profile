@@ -17,4 +17,4 @@
 3. Please upload a patch file of new version as soon as possible.
 
 #3-9
-我们上传了log. 还我要新老版本。
+我们上传了log. 还我收到了新老版本。谢谢
