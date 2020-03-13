@@ -21,3 +21,8 @@
 
 #3-12
 我上传了新BUG。我需要你们快解决。谢谢。
+
+#3-13
+Complete to download all files. After this when you will upload lots of new files, create a new repository please. 
+And say that server configuration now.
+Thanks.
