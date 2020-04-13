@@ -13,3 +13,5 @@ In addition this is not bug. Since main charactor is appear after lot of time.
 
 - Download and Give me some "fmod.so" files for linux.
     At here there must be header files and lib files. Thanks.
+# 4-13
+好的，但你看了4月2号需要吗？
