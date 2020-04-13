@@ -15,3 +15,4 @@ In addition this is not bug. Since main charactor is appear after lot of time.
     At here there must be header files and lib files. Thanks.
 # 4-13
 好的，但你看了4月2号需要吗？
+We need to you resolve them as soon as possible. Boss needs the problem. 
