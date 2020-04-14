@@ -16,3 +16,6 @@ In addition this is not bug. Since main charactor is appear after lot of time.
 # 4-13
 好的，但你看了4月2号需要吗？
 We need to you resolve them as soon as possible. Boss needs the problem. 
+
+# 4-14
+upload new problems.
