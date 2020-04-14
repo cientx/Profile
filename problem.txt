@@ -1,0 +1,10 @@
+1. Now the jifen of item at shop is zero, then this item cannot buy with jifen.
+    So all of items must be purchased with each of cienbi and jifen.  If it is not so, the item is used as free.
+    How is this usecase processed?
+2. If tianyuan is purchased with tianyan card, give back 5% cienbi to user.
+   At this time how much does user give back jifen?
+3. when upgrading tianyuan, does jifen give back to user as 100%?
+4. when changing charactor name, whether user can use the cienbi as well as jifen or not?
+5. Can jifen use if cienbi is not enough to action at promise yishi?
+6. How does the following tianyuan process?
+    upgraded tianyuan, prolonged tianyuan and so on.
