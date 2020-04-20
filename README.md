@@ -21,3 +21,7 @@ We need to you resolve them as soon as possible. Boss needs the problem.
 upload new problems.
 # 4-17
 我上传了需要的文件。
+# 4-20
+好！ 受到了文件。 谢谢。 还有清fmod dll，so file和 说明文件也上转一下。辛苦了。
+4-4 bug 是以前发过了。 可是这不是bug。
+
