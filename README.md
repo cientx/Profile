@@ -7,3 +7,5 @@
 
 # 4-24
 I uploaded fmod data, and then I need email address and password that used to report errors in C version application.
+# 4-27
+Isn't there fmod dynamic library(dll) for windows? If there is, please give me them. Sorry.
