@@ -16,6 +16,11 @@ Hi. How are you! Give you some notifications and questions.
 
 notification
 1. mail address stood for reporter.sln/process.cpp.
+mail_server : smtp.ym.163.com
+mail_receiver: devteam@cientx.com
+mail_sender: tguser@cientx.com
+mail_sender_username: tguser@cientx.com
+mail_sender_password: oRa2229ypf
 
 answer
 1. In the case of showing the UI purchasing jifen to user who had done some tianyuan yet, what about processing with mail.
