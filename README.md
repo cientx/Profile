@@ -24,4 +24,4 @@ answer
    send me mail messages for it(notify).
 
 request
-1. Resend the "Icon_Point_Fon" resource at Tg_Button_01.
+1. Resend the "Icon_Point_Font" resource at Tg_Button_01.
