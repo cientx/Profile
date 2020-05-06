@@ -1,16 +1,3 @@
-# 4-20
-好！ 受到了文件。 谢谢。 还有清fmod dll，so file和 说明文件也上转一下。辛苦了。
-4-4 bug 是以前发过了。 可是这不是bug。
-
-# 4-22
-好的
-
-# 4-24
-I uploaded fmod data, and then I need email address and password that used to report errors in C version application.
-# 4-27
-Isn't there fmod dynamic library(dll) for windows? If there is, please give me them. Sorry.
-# 4-30
-There is the fmod.dll in C version application. Please check the directory that installed app.
 # 5-4
 Hi. How are you! Give you some notifications and questions.
 
@@ -30,3 +17,12 @@ answer
 
 request
 1. Resend the "Icon_Point_Font" resource at Tg_Button_01.
+
+# 5-6
+答复：
+1. 请按需求实现积分返还功能，邮件返还的方式不够醒目，达不到运营及销售的需求。
+2. 目前我们产品里没有 Tg_Button_01 的资源，只有Tg3_Button_01。（附件里上传了Tg3_Button_01）
+
+注意：
+1. 请尽快提供更新包及安装包，但确保质量（多测试，确保产品的稳定性）
+2. 提供安装包时，请提供一下更新说明文档（服务，客户端，数据库），因手机端也需要按c版本同步。
