@@ -22,3 +22,6 @@
 
 #6-2
 I understand
+
+# 6-4
+We have sent the version 1.11.0.2 yet. Please receive it. If you pushlish this version, please notify us to know.
