@@ -24,4 +24,4 @@
 I understand
 
 # 6-4
-We have sent the version 1.11.0.2 yet. Please receive it. If you pushlish this version, please notify us to know.
+We have sent the version 1.11.0.2 yet, please receive it. After you pushlish this version, please notify us to know.
