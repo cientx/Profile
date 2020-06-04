@@ -25,3 +25,4 @@ I understand
 
 # 6-4
 We have sent the version 1.11.0.2 yet, please receive it. After you pushlish this version, please notify us to know.
+好的。辛苦了。谢谢啊。
