@@ -26,3 +26,6 @@ I understand
 # 6-4
 We have sent the version 1.11.0.2 yet, please receive it. After you pushlish this version, please notify us to know.
 好的。辛苦了。谢谢啊。
+
+# 6-8
+我们测试了新版本，但有几个问题。我上转了一个文档在buffer里。你有三个天。快解决吧。谢谢。
