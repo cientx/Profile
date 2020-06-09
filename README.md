@@ -41,3 +41,4 @@ If this issue must be resolved, you must change the resource Tg3_Buttons.tga.
 Please tell me how should we solve the above problem?
 
 Tg3_Buttons.tga没问题。Tg3_Frames.tga有问题。
+我再上转了Tg3_Frames.tga。
