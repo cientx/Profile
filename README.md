@@ -34,3 +34,8 @@ We have sent the version 1.11.0.2 yet, please receive it. After you pushlish thi
 I received it.
 Please let me check the url http://iandrohackerdk.blogspot.dk/2015/11/tutorial-how-to-decrypt-encrypted-dll.html.
 这个网页没有啊。
+
+# 6-9
+There is a issue at Tg3_Buttons.tga for the first problem, since alpha channel already had been changed.
+If you must be resolve this issue, you must change the resource Tg3_Buttons.tga.
+Please tell me how should we solve the above problem?
