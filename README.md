@@ -32,4 +32,4 @@ We have sent the version 1.11.0.2 yet, please receive it. After you pushlish thi
 
 # 6-9
 I received it.
-Please check http://iandrohackerdk.blogspot.dk/2015/11/tutorial-how-to-decrypt-encrypted-dll.html.
+Please let me check the url http://iandrohackerdk.blogspot.dk/2015/11/tutorial-how-to-decrypt-encrypted-dll.html.
