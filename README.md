@@ -29,3 +29,7 @@ We have sent the version 1.11.0.2 yet, please receive it. After you pushlish thi
 
 # 6-8
 我们测试了新版本，但有几个问题。我上转了一个文档在buffer里。你有三个天。快解决吧。谢谢。
+
+# 6-9
+I received it.
+Please check http://iandrohackerdk.blogspot.dk/2015/11/tutorial-how-to-decrypt-encrypted-dll.html.
