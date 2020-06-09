@@ -37,5 +37,5 @@ Please let me check the url http://iandrohackerdk.blogspot.dk/2015/11/tutorial-h
 
 # 6-9
 There is a issue at Tg3_Buttons.tga for the first problem, since alpha channel already had been changed.
-If you must be resolve this issue, you must change the resource Tg3_Buttons.tga.
+If this issue must be resolved, you must change the resource Tg3_Buttons.tga.
 Please tell me how should we solve the above problem?
