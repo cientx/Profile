@@ -42,3 +42,7 @@ Please tell me how should we solve the above problem?
 
 Tg3_Buttons.tga没问题。Tg3_Frames.tga有问题。
 我再上转了Tg3_Frames.tga。
+
+# 6-17
+我们昨天发布了新版本在外网上。但有几个问题。我上传了新文档。尽快解决吧。
+
