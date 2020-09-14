@@ -18,3 +18,7 @@
 今天我收到新的文件。辛苦了。謝謝。
 
 把CheckDB.exe的源代码 ，发过来吧。
+
+# 9-14
+Hi, 
+Give me some solutions for v150 such as misc, net and, external libraries such as extern_v150 directory.
