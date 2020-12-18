@@ -3,5 +3,8 @@ I am going to move(porting) Windows services to Linux. So please send me a doc f
 I need the porting guide and source code. thank you.
 
 
-# 2020-1217
+# 2020-12-17
 I changed work repository to public.
+
+# 2020-12-18
+624000
