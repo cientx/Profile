@@ -10,3 +10,6 @@ sudo yum install unixODBC-devel
 
 Example for Fedora:
 sudo dnf install unixODBC-devel
+
+# 12-28
+I uploaded unixODBC of Centos 7. If you need another package to install that, then tell me.
