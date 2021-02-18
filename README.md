@@ -1,18 +1,9 @@
-# 01-19
-新年好！我希望你上转结果物。我等着你的回答。谢谢。
+# 02-18
 
-别的问题。
-如果难以访问MS SQL数据库，请考虑使用mysql或postgresql在Linux。
-考虑将ms sql的数据库转换为mysql或postgresql时可能出现的问题。 特别是存储过程怎么调用？
-如果您更喜欢mysql或postgresql，我们也会考虑。
+I received your code, and built the project using Tianguo_ConfigBooks.xls and readme.txt files.
+And then I did run admin_executor_service, but it is incorrect.
+So I added a png file for screenshot to git.
+Please check it and let me know the resolution.
+And I need to send me pull project including build directory because of settings of cfg and dat file.
 
-# 02-01
-
-I received your code, and tried to build the project using doc file.
-But I got following error message:
-
-CMake Error: The source directory "/home/cntx_server/sevice" does not appear to contain CMakeLists.txt.
-Specify --help for usage, or press the help button on the CMake GUI.
-
-I think you sent me an incorrect code. Please check it and know me.
 Thank you.
